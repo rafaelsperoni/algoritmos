@@ -12,4 +12,4 @@ idade = float(input("Informe sua idade: "))
 
 dias = idade * 365
 
-print(nome, "você já viveu ", dias, " dias.")
+print("OLA ", nome, "VOCÊ JÁ VIVEU ", dias, " DIAS.")
